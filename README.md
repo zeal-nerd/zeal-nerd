@@ -1,4 +1,8 @@
+<!-- <p><img src="https://github.com/zeal-nerd/zeal-nerd/assets/172883895/ee84cb8a-eb64-4589-a374-9432cc744164"></p> -->
+<p align="center"><img src="https://github.com/zeal-nerd/zeal-nerd/assets/172883895/dfe6bde1-5168-4e84-ac88-7a74c8e65560"></p>
+
 # About Me
+
 
 ## Hi there! 👋
 

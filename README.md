@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Kal a self-taught programmer who started this exciting journey in 2021. Ever since I was a kid, I've loved trying new things and figuring out how they work. This curiosity led me to the world of programming. However, diving into computer science was both fascinating and a bit overwhelming due to its vastness. I quickly realized that becoming proficient in this field would be a long, yet rewarding, adventure.
+I'm Kal, self-taught programmer who started this exciting journey in 2021. Ever since I was a kid, I've loved trying new things and figuring out how they work. This curiosity led me to the world of programming. However, diving into computer science was both fascinating and a bit overwhelming due to its vastness. I quickly realized that becoming proficient in this field would be a long, yet rewarding, adventure.
 
 ### My Journey So Far 🚀
 

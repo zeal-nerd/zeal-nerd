@@ -33,4 +33,5 @@ I'm Kal, self-taught programmer who started this exciting journey in 2021. Ever 
 - **Believer**: In God and the power of learning
 - **Reach Out**: Check my contact details in my bio. Feel free to ask any questions or offer guidance. I'm always here and eager to learn from experts and peers alike.    
 ---
+<a href="https://app.daily.dev/zeal_nerd"><img src="https://api.daily.dev/devcards/v2/z7xzAB6wgvxdfF9lWH8G1.png?type=wide&r=v7q" width="652" alt="Kaleab Desalegn's Dev Card"/></a>
 
